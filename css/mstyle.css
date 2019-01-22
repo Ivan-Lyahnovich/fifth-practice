@@ -1,0 +1,1174 @@
+@media only screen and (min-device-width : 960px) and (max-device-width : 1280px) {
+
+/* 1 */
+.hed{
+    padding-bottom: 150px;
+}
+
+.logo{ 
+padding-left: 100px; 
+} 
+
+.btnCont{
+    padding-top: 100px;
+}
+
+.bar{
+    margin-right: 80px;
+}
+
+
+
+/* 2 */
+.ABOUT{
+    padding-bottom: 50px;
+}
+
+
+
+/* 4 */
+
+.details{
+    padding-right: 20px;
+}
+.icon11{
+    padding-left: 120px;
+}
+.soc{
+    margin-left: 120px; 
+}
+.soc1{    
+    margin-top: -372px;
+}
+
+
+.i14 img{
+    padding-right: 10px;
+}
+.soc2 {
+    right: 80px;
+}
+.soc2-1{    
+    margin-top: -362px;
+}
+
+
+.i15 img{
+    padding-right: 0px;
+}
+.icon15{
+    margin-left: 120px;
+}
+.soc3{
+    margin-left: 120px;
+}
+
+
+.i16 img{
+    padding-left: 4px;
+}
+.icon16{
+    margin-right: 0px;
+}
+.soc4{
+    right: 80px; 
+}
+.soc4-1{    
+    margin-top: -312px;
+}
+
+
+.icon17{
+    margin-left: 120px;
+}
+.soc5{
+    margin-left: 120px;
+}
+.soc5-1{    
+    margin-top: -311px;
+}
+
+
+/* 5 */
+.y{
+    margin-right: 10px;
+}
+
+
+
+/* 8 */
+.icon31{
+    width: 1403px;
+}
+
+.btnCont{
+    margin-top: -80px;
+}
+
+.Map{
+    margin-left: 780px;
+}
+
+.Googl{
+    width: 540px;
+}
+}
+
+/* Ipad Pro*/
+@media only screen and (min-device-width : 1024px) and (max-device-width : 1366px) {
+
+/* 1 */
+.btnCont{
+    padding-top: 150px;
+}
+
+
+/* 2 */
+#blockslide{ 
+    width: 400px;
+    height: 380px;
+} 
+
+.We{
+    font-size: 18px;
+}
+
+.visual{
+    font-size: 14px;
+}
+
+
+/* 3 */
+.Works{
+    height: 980px;
+}
+
+.picture {
+    margin-top: 70px;
+}
+
+.picture img {
+    width: 300px;
+    height: 300px;
+}
+
+
+
+/* 4 */
+.Services{
+    height: 1300px;
+}
+
+.details{
+    width: 500px;
+    height: 350px;
+}
+.icon11 img{
+    width: 460px;
+    height: 320px;
+    margin-top: -1px;
+}
+.soc{
+    margin-left: 120px; 
+    top: 70px;
+    width: 460px;
+    height: 320px;
+}
+.Lorem1{
+    font-size: 18px;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.textOur{  
+    margin-left: 50px;
+    padding-right: 25px;
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+.KNOW{
+    margin-left: 50px;
+}
+.soc1{    
+    margin-left: 0px; 
+    margin-top: -295px;
+    width: 460px;
+    height: 320px;
+}
+.Lorem0{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.textOur0{
+    margin-left: 50px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.str{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+
+.icon14{
+    width: 400px;
+    height: 320px;
+}
+.icon14 img{
+    width: 350px;
+    height: 320px;
+    margin-left: 20px; 
+}
+.soc2{
+    margin-left: 50px; 
+    margin-top: -250px;
+    width: 340px;
+    height: 320px;
+    right: 40px;
+}
+.Lorem2{
+    font-size: 18px;
+    margin-top: 122px;
+    margin-left: 50px;
+}
+.textOur2{  
+    margin-left: 50px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.KNOW2{
+    margin-left: 50px;
+}
+.soc2-1{    
+    margin-left: 0px; 
+    margin-top: -294px;
+    width: 340px;
+    height: 320px;
+}
+.Lorem2-1{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.textOur2-1{
+    margin-left: 50px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.str2{
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+
+.icon15 img{
+    width: 460px;
+    height: 300px;
+}
+.icon15 {
+    width: 460px;
+    height: 300px;    
+    margin-left: 120px;
+    margin-top: 15px;
+}
+.soc3{
+    margin-left: 120px; 
+    top: 385px;
+    width: 460px;
+    height: 300px;
+}
+.Lorem3{
+    font-size: 18px;
+    margin-top: 120px;
+    margin-left: 50px;
+}
+.textOur3{  
+    margin-left: 50px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.KNOW3{
+    margin-left: 50px;
+}
+.soc3-1{    
+    margin-left: 0px; 
+    margin-top: 0px;
+    width: 460px;
+    height: 301px;
+}
+.Lorem3-1{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.textOur3-1{
+    margin-left: 50px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.str3{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+
+.icon16{
+    width: 400px;
+    height: 300px;
+}
+.icon16 img{
+    width: 344px;
+    height: 300px;
+    margin-left: 15px; 
+    margin-top: 15px;
+}
+.soc4{
+    margin-left: 50px; 
+    margin-top: -285px;
+    width: 340px;
+    height: 300px;
+    right: 40px;
+}
+.Lorem4{
+    font-size: 18px;
+    margin-top: 117px;
+    margin-left: 50px;
+}
+.textOur4{  
+    margin-left: 50px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.KNOW4{
+    margin-left: 50px;
+}
+.soc4-1{    
+    margin-left: 0px; 
+    margin-top: -268px;
+    width: 340px;
+    height: 300px;
+}
+.Lorem4-1{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.textOur4-1{
+    margin-left: 50px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.str4{
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+
+.icon17{
+    width: 400px;
+    height: 300px;
+}
+.icon17 img{
+    width: 344px;
+    height: 300px;
+    margin-left: 0px;
+    margin-top: 10px;
+}
+.soc5{
+    margin-left: 120px;
+    margin-top: -290px;
+    width: 344px;
+    height: 300px;
+}
+.Lorem5{
+    font-size: 18px;
+    margin-top: 105px;
+    margin-left: 50px;
+}
+.textOur5{  
+    margin-left: 50px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.KNOW5{
+    margin-left: 50px;
+}
+.soc5-1{    
+    margin-left: 0px; 
+    margin-top: -277px;
+    width: 344px;
+    height: 300px;
+}
+.Lorem5-1{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.textOur5-1{
+    margin-left: 50px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.str5{
+    margin-top: 60px;
+    margin-left: 40px;
+}
+
+
+.icon18 img{
+    width: 455px;
+    height: 300px;   
+    margin-top: 10px;
+}
+.icon18 {
+    width: 455px;
+    height: 300px;    
+    margin-left: 70px;
+}
+.soc6{
+    margin-left: 70px; 
+    top: 35px;
+    width: 455px;
+    height: 300px;
+}
+.Lorem6{
+    font-size: 18px;
+    margin-top: 105px;
+    margin-left: 50px;
+}
+.textOur6{  
+    margin-left: 50px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.KNOW6{
+    margin-left: 50px;
+}
+.soc6-1{    
+    margin-left: 0px; 
+    margin-top: 0px;
+    width: 455px;
+    height: 301px;
+}
+.Lorem6-1{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.textOur6-1{
+    margin-left: 50px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.str6{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+
+
+/* 5 */
+.TeamPart{
+    height: 1100px;
+}
+
+.r,.y,.u,.i,.o,.t{
+    width: 300px;
+    height: 350px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.Block1-1{
+    width:280px;
+    height:200px;
+    margin-top: -220px;
+    margin-left: 15px;
+}
+.AL{
+    margin-left: 20px;
+    padding-bottom: 20px;
+    margin-top: 15px;
+}
+.socialLog{
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+.Block2-1{
+    width:280px;
+    height:200px;
+    margin-top: -220px;
+    margin-left: 325px;
+}
+
+.Block3-1{
+    width:280px;
+    height:200px;
+    margin-top: -220px;
+    margin-left: 635px;
+}
+
+.Block4-1{
+    width:280px;
+    height:200px;
+    margin-top: -220px;
+    margin-left: 15px;
+}
+
+.Block5-1{
+    width:280px;
+    height:200px;
+    margin-top: -220px;
+    margin-left: 325px;
+}
+
+.Block6-1{
+    width:280px;
+    height:200px;
+    margin-top: -220px;
+    margin-left: 635px;
+}
+
+
+
+/* 6 */
+.Rounded{
+    width: 565px;
+}
+
+#blockslid{ 
+    width: 380px;
+    height: 360px;
+    margin: 100px auto;
+} 
+
+.square{    
+    margin-left: 120px;
+}
+   
+
+
+/* 7 */
+.Logo{
+    height: 250px;
+    margin-top: 70px;
+}
+
+.rounded{
+    width: 160px;
+    height: 90px;
+    padding-right: 20px;
+}
+
+
+
+/* 8 */
+.Contact{
+    height: 498px;
+}
+
+.icon31{
+    width: 1024px;
+}
+
+.Message{
+    margin-top: -470px;
+    margin-left: 50px;
+    width: 470px;
+    height: 450px;
+}
+
+.btnCont{
+    margin-top: -130px;
+}
+
+hr{
+    width: 470px;
+}
+
+.Map{
+    margin-left: 560px;
+    margin-top: -470px;
+    height: 451px;
+}
+
+.Googl{
+    margin-top: 0px;
+    width: 380px;
+    height: 225px;
+}
+}
+
+/* Смартфоны */
+@media only screen and (min-device-width : 375px) and (max-device-width : 812px) {
+
+/* 1 */
+.Header{
+    height: 450px;
+}
+
+.logo{ 
+    padding-top: 20px;
+} 
+
+.burger{ 
+    margin-top: -100px;
+    padding-top: 0px;
+    margin-left: 250px; 
+} 
+
+.hed{
+    padding-bottom: 20px;
+}
+
+.Say{
+    font-size: 28px;
+}
+
+.btnCont{
+    padding-top: 180px;
+}
+
+img.bottom {
+    display: none;
+}
+
+img.top {
+    display: none;
+}
+
+
+
+/* 2 */
+.AboutUs{
+    height: 1000px;
+}
+
+.ABOUT{
+    font-size: 24px;
+    padding-bottom: 0px; 
+}
+
+.Lorem{
+    font-size: 18px;
+}
+
+#blockslide{ 
+    width: 300px;
+    height: 300px;
+} 
+
+.d-block{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.We{
+    font-size: 15px;
+}
+
+.visual{
+    font-size: 10px;
+}
+
+
+
+/* 3 */
+.Works{
+    height: 760px;
+}
+
+.feat{
+    font-size: 24px;
+    padding-top: 50px;
+}
+
+.picture {
+    margin-top: 20px;
+}
+
+.picture img {
+    width: 162px;
+    height: 162px;
+}
+
+
+
+
+/* 4 */
+.Services{
+    height: 2450px;
+}
+
+.details{
+    width: 200px;
+    height: 350px;
+    margin-left: 0px;
+    margin-right: 5px; 
+}
+
+.icon11{
+    width: 260px;
+    padding-left: 0px;
+}
+.icon11 img{
+    width: 345px;
+    height: 319px;
+    margin-top: -20px;
+}
+.soc{
+    margin-left: 0px; 
+    top: 50px;
+    width: 345px;
+    height: 320px;
+}
+.Lorem1{
+    font-size: 16px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.textOur{  
+    margin-left: 30px;
+    padding-right: 30px;
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+.KNOW{
+    margin-left: 30px;
+}
+.soc1{    
+    margin-left: 0px; 
+    margin-top: -286px;
+    width: 345px;
+    height: 321px;
+}
+.Lorem0{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.textOur0{
+    margin-left: 10px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.str{
+    margin-top: -25px;
+    margin-left: 15px;
+}
+
+
+.icon14{
+    width: 345px;
+    height: 320px;
+    margin-top: 0px;
+    padding-bottom: 350px;
+}
+.icon14 img{
+    width: 345px;
+    height: 320px;
+    margin-left: 0px; 
+}
+.soc2{
+    margin-left: 150px; 
+    margin-top: -350px;
+    width: 345px;
+    height: 320px;
+    right: -15px;
+}
+.Lorem2{
+    font-size: 18px;
+    margin-top: 110px;
+    margin-left: 30px;
+}
+.textOur2{  
+    margin-left: 30px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.KNOW2{
+    margin-left: 30px;
+}
+.soc2-1{    
+    margin-left: 0px; 
+    margin-top: -284px;
+    width: 345px;
+    height: 325px;
+}
+.Lorem2-1{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.textOur2-1{
+    margin-left: 10px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.str2{
+    margin-top: 120px;
+    margin-left: 15px;
+}
+
+
+.icon15 img{
+    width: 345px;
+    height: 320px;
+}
+.icon15 {
+    width: 345px;
+    height: 320px;
+    margin-left: 0px;
+    margin-top: -20px;
+    padding-bottom: 350px;
+}
+.soc3{
+    margin-left: 0px; 
+    top: 350px;
+    width: 345px;
+    height: 320px;
+}
+.Lorem3{
+    font-size: 18px;
+    margin-top: 120px;
+    margin-left: 30px;
+}
+.textOur3{  
+    margin-left: 30px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.KNOW3{
+    margin-left: 30px;
+}
+.soc3-1{    
+    margin-left: 0px; 
+    top: 0px;
+    width: 345px;
+    height: 320px;
+}
+.Lorem3-1{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.textOur3-1{
+    margin-left: 10px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.str3{
+    margin-top: 95px;
+    margin-left: 15px;
+}
+
+
+.icon16{
+    width: 345px;
+    height: 320px; 
+    padding-top: 0px; 
+    padding-bottom: 350px;
+}
+.icon16 img{
+    width: 345px;
+    height: 320px;
+    margin-top: 0px;
+}
+.soc4{
+    left: 15px; 
+    margin-top: -350px;
+    width: 345px;
+    height: 320px;
+    right: 0px;
+}
+.Lorem4{
+    font-size: 18px;
+    margin-top: 135px;
+    margin-left: 30px;
+}
+.textOur4{  
+    margin-left: 30px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.KNOW4{
+    margin-left: 30px;
+}
+.soc4-1{    
+    margin-left: 0px; 
+    margin-top: -286px;
+    width: 346px;
+    height: 321px;
+}
+.Lorem4-1{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.textOur4-1{
+    margin-left: 10px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.str4{
+    margin-top: 115px;
+    margin-left: 15px;
+}
+
+
+.icon17{
+    width: 345px;
+    height: 320px; 
+    padding-bottom: 350px;
+    margin-left: 0px;
+}
+.icon17 img{
+    width: 345px;
+    height: 320px; 
+}
+.soc5{
+    margin-left: 0px;
+    margin-top: -350px;
+    width: 345px;
+    height: 320px; 
+}
+.Lorem5{
+    font-size: 18px;
+    margin-top: 120px;
+    margin-left: 30px;
+}
+.textOur5{  
+    margin-left: 30px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.KNOW5{
+    margin-left: 30px;
+}
+.soc5-1{    
+    margin-left: 0px; 
+    margin-top: -292px;
+    width: 345px;
+    height: 320px; 
+}
+.Lorem5-1{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.textOur5-1{
+    margin-left: 10px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.str5{
+    margin-top: 90px;
+    margin-left: 15px;
+}
+
+
+.icon18 img{
+    width: 345px;
+    height: 320px; 
+}
+.icon18 {
+    width: 345px;
+    height: 320px; 
+    margin-left: 0px;
+    padding-bottom: 350px;
+}
+.soc6{
+    margin-left: 0px; 
+    top: 25px;
+    width: 345px;
+    height: 320px; 
+}
+.Lorem6{
+    font-size: 18px;
+    margin-top: 85px;
+    margin-left: 30px;
+}
+.textOur6{  
+    margin-left: 30px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.KNOW6{
+    margin-left: 30px;
+}
+.soc6-1{    
+    margin-left: 0px; 
+    margin-top: 0px;
+    width: 345px;
+    height: 321px; 
+}
+.Lorem6-1{
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.textOur6-1{
+    margin-left: 10px;
+    padding-right: 25px;
+    font-size: 14px;
+}
+.str6{
+    margin-top: 75px;
+    margin-left: 15px;
+}
+
+
+
+/* 5 */
+.TeamPart{
+    height: 2700px;
+}
+
+.y,.r,.u,.i,.o,.t{
+    width: 340px;
+    height: 390px; 
+    margin-left: 0px;
+    margin-top: 20px;
+    padding-right: 20px;
+    margin-right: 0px;
+}
+.r{
+    margin-top: -50px
+}
+
+.Block1-1{
+    width:300px;
+    height:200px;
+    margin-top: -220px;
+    margin-left: 10px;
+}
+.AL{
+    margin-left: 20px;
+    padding-bottom: 20px;
+    margin-top: 5px;
+}
+.socialLog{
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+.Block2-1{
+    width:300px;
+    height:200px;
+    margin-top: -220px;
+    margin-left: 10px;
+}
+
+.Block3-1{
+    width:300px;
+    height:200px;
+    margin-top: -220px;
+    margin-left: 10px;
+}
+
+.Block4-1{
+    width:300px;
+    height:200px;
+    margin-top: -220px;
+    margin-left: 10px;
+}
+
+.Block5-1{
+    width:300px;
+    height:200px;
+    margin-top: -220px;
+    margin-left: 10px;
+}
+
+.Block6-1{
+    width:300px;
+    height:200px;
+    margin-top: -220px;
+    margin-left: 10px;
+}
+
+/* 6 */
+.Testimonial{
+    height: 1300px;
+}
+
+#blockslid{ 
+    width: 340px;
+    height: 390px; 
+} 
+
+.carousel-indicators{ 
+    margin-bottom: -30px; 
+}
+
+.Rounded{
+    width: 350px;
+    height: 430px;
+    margin-top: 0px;
+}
+
+.square{  
+    margin-top: 20px;  
+    margin-left: 0px;
+    right: 55px;
+}
+   
+
+/* 7 */
+.Logo{
+    height: 550px;
+    margin-top: 70px;
+}
+
+.rounded{
+    width: 160px;
+    height: 90px;
+    padding-right: 0px;
+}
+
+
+/* 8 */
+.Contact{
+    height: 970px;
+}
+
+.icon31{
+    width: 375px;
+    height: 500px;
+}
+
+.Message{
+    margin-top: -470px;
+    margin-left: 15px;
+    width: 340px;
+    height: 450px;
+}
+
+input, textarea {
+    width:325px;
+}
+
+.btnCont{
+    margin-top: -170px;
+    padding-left: 30px;
+}
+
+hr{
+    width: 320px;
+}
+
+.Map{
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 0px;
+    height: 451px;
+}
+
+.Googl{
+    margin-top: 0px;
+    width: 300px;
+    height: 225px;
+}
+
+}
